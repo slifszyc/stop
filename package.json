@@ -1,0 +1,7 @@
+{
+  "name": "stop",
+  "repo": "slifszyc/stop",
+  "description": "Cross-browser .stopPropagation.",
+  "version": "0.0.2",
+  "license": "MIT"
+}
